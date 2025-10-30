@@ -4,7 +4,7 @@
 Ako zelim koristiti osnovne razine, potrebno je unjeti sljedeću sintaksu
 
 ```bash
-#N aslov 1
+# Naslov 1
 ## Naslov 2
 ### Naslov 3
-#### Naslov4
+#### Naslov 4
